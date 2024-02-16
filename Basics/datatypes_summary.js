@@ -30,8 +30,8 @@ let myObj = {
     age: 22,
 }
 
-const myFunction = function() {
+const myFunction = function () {
     console.log("Hello world");
 }
 
-console.log(typeof(temperature))
+console.log(typeof (myFunction))
